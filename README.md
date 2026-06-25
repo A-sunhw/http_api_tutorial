@@ -104,7 +104,7 @@ qweather_api_key = os.environ.get("QWEATHER_API_KEY")
 
 ## 许可协议
 
-© 2026 孙汉文 | 原创教程
+© 2026 asunhw | 原创教程
 
 本作品采用 [CC BY-NC 4.0 协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)：
 
