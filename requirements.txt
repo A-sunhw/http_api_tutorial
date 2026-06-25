@@ -1,0 +1,8 @@
+flask
+ipython
+jupyter
+matplotlib
+pandas
+pillow
+python-dotenv
+requests
