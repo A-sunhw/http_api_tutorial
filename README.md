@@ -12,7 +12,7 @@
 ├── .env.example
 ├── notebooks/
 │   ├── 01_api调用引入.ipynb
-│   ├── 02_http请求详解.ipynb
+│   ├── 02_http请求详解.ipy
 │   └── 03_大模型api调用.ipynb
 ├── examples/
 │   └── service.py
@@ -23,7 +23,7 @@
         └── 905504.png
 ```
 
-- `notebooks/`：课程主体内容，按学习顺序拆分为三节 Notebook。
+- `notebooks/`：课程主体内容，按学习顺序拆分为三节 Notebook，**请使用Jupyter notebook打开**,否则无法正常加载内嵌的base64编码图片
 - `examples/service.py`：本地 Flask API 示例，提供图片 base64 传输和尺寸识别接口。
 - `assets/images/`：Notebook 中使用的示例图片素材。
 - `assets/docs/`：课程练习中使用的文本素材。
